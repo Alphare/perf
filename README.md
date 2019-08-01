@@ -1,3 +1,5 @@
+⚠️ You may be looking for the `pyperf` package which was renamed from `perf`: https://pypi.org/project/pyperf/#description
+
 # Monitor Your Python Expressions
 ```
 @perfit
